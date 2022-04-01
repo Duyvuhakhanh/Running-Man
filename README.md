@@ -1,2 +1,2 @@
 # Running-Man
-Hot to play: Press Space to jump over the ostacles
+How to play: Press Space to jump over the obstacles
